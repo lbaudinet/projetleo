@@ -1,0 +1,3 @@
+graft projetleo
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  projetleo/jupy *
